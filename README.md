@@ -14,10 +14,7 @@
 
 Интерфейс программы представляет собой главное окно, на котором отображаются процессы, отсортированные по определённому признаку, основную информацию о них и информацию о ресурсах системы в численном виде и в виде графиков использования за последнее время. Кроме того, должна быть предусмотрена возможность вызова справки по использованию утилиты в виде отдельной страницы. 
 
-![alt text](https://github.com/Podik-err/TRiTPO/blob/main/Mockups/Editor%20window.png "Editor window")
-
-![alt text](https://github.com/Podik-err/TRiTPO/blob/main/Mockups/Asset%20store.png "Asset store")
-![alt text](https://github.com/Podik-err/TRiTPO/blob/main/Mockups/Asset%20page.png "Asset page")
+![alt text](https://github.com/Podik-err/TRiTPO/blob/main/Main%20window.png "Main window")
 
 ## 2.3 Интерфейс пользователя
 
