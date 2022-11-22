@@ -78,7 +78,7 @@
 
 # 4 Диаграмма состояний
 
-![alt text](https://github.com/Podik-err/TRiTPO/blob/main/SDS/Sequence%20diagram%202.png "State")
+![alt text](https://github.com/Podik-err/TRiTPO/blob/main/SDS/State%20diagram.png "State")
 
 # 5 Диаграмма классов
 
