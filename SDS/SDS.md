@@ -87,3 +87,13 @@
 # 6 Диаграмма компонентов и развёртывания
 
 ![alt text](https://github.com/Podik-err/TRiTPO/blob/main/SDS/Deployment%20diagram.png "Deployment diagram")
+
+# 7 Пример интерфейса
+
+![alt text](https://github.com/Podik-err/TRiTPO/blob/main/Main%20window.png "Main window")
+
+# 8 Дополнительные требования
+
+1. Язык C++;
+2. Использование интерфейса procfs;
+3. Оконная библиотека slint;
