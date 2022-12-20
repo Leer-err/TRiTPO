@@ -31,25 +31,25 @@ Unit-тесты проводились с помощью фреймворка д
 Проведём тестирование различных сценариев работы приложения:
 
 При зкпуске открывается окно в режиме отображения информации о процессах
-![Main window](Tests/Main%20window.png)
+![Main window](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Main%20window.png)
 
 Перейдём в режим отправки сигнала по нажатию клавиши "k"
-![Signal window](Tests/Signal%20window.png)
+![Signal window](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Signal%20window.png)
 
 Введем идентификатор несуществующего процесса
-![Wrong id](Tests/Wrong%20id.png)
+![Wrong id](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Wrong%20id.png)
 
 Введём верный идентификатор
-![Correct id](Tests/Correct%20id.png)
+![Correct id](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Correct%20id.png)
 
 Введём неверный код сигнала
-![Wrong signal](Tests/Wrong%20signal.png)
+![Wrong signal](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Wrong%20signal.png)
 
 Введём верный код сигнала
-![Correct signal](Tests/Correct%20signal.png)
+![Correct signal](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Correct%20signal.png)
 
 Вернёмся к отображению процессов нажатием "p" и изменим режим сортировки нажатием "c"
-![Sort CPU](Tests/Sort%20CPU.png)
+![Sort CPU](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Sort%20CPU.png)
 
 Используя ctest, проведём автоматизированное тестирование следующих функций:
 - Получение информации о процессах
@@ -58,4 +58,4 @@ Unit-тесты проводились с помощью фреймворка д
 
 # 7 Результаты тестирования
 
-![Test results](Tests/UNIT%20Tests.png)
+![Test results](https://github.com/Podik-err/TRiTPO/blob/main/Tests/UNIT%20Tests.png)
