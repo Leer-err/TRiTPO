@@ -44,3 +44,4 @@
 Важным атрибутом качества является низкое потребление ресурсов, так как приложение может быть запущено длительное время.
 
 [SDS](https://github.com/Podik-err/TRiTPO/blob/main/SDS/SDS.md)
+[Tests](https://github.com/Podik-err/TRiTPO/blob/main/Tests/Tests.md)
