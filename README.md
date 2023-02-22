@@ -1,3 +1,5 @@
+# moved to https://github.com/Leer-err/SystemMonitor
+
 # Требования к проекту
 
 # 1. Введение
